@@ -257,7 +257,7 @@ blog_list:
   date: 2022.05
   content: 여러 분야의 프로그래머들을 보면서 부러워도 하고 좌절도 하였지만 포기하지않고 어느 한분야라도 '장인'이 되겠다는 마음으로 꾸준히 개발 블로그를 운영할 것입니다.
   thumbnail_url: images/pofol/blog/main.JPG
-  link: #
+  link: https://choiwh000.github.io/
 # - title: 따라쟁이의 유튜브
 #   subtitle: 개발,논문 유튜브 채널 운영
 #   date: 2018.04
@@ -282,9 +282,9 @@ contact_list:
   icon: icon-map
 - title: +82 10 8589 5603
   icon: icon-phone
-# - title: 웹 주소
-#   icon: icon-layers2
-#   url: choiwh000@naver.com
+ - title: 웹 주소
+   icon: icon-layers2
+   url: choiwh000@naver.com
 contact_message: <em>연락해주셔서 감사합니다.</em> 24시간이내에 회신드리도록 하겠습니다. :)
 
 
