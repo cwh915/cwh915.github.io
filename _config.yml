@@ -121,7 +121,7 @@ project_my: # 형식에 맞추어 항목 추가
   readmore_url: https://choiwh000.github.io/portfolio/fe-p/2021-12-30-movie-site/
 
 - background_url: images/pofol/withhome/main.JPG
-  animation: fadeInLeft
+  animation: fadeInRight
   name: With-Home - 개인
   description: 기존 사이트를 React를 활용하여 새로운 코드로 제작해보았습니다.
   detail_url: https://choiwh000.github.io/WithHome/
@@ -135,14 +135,14 @@ project_my: # 형식에 맞추어 항목 추가
   readmore_url: https://choiwh000.github.io/portfolio/fe-p/2021-12-07-sketch-book/
 
 - background_url: images/pofol/todolist/home.JPG
-  animation: fadeInLeft
+  animation: fadeInRight
   name: Todo-List - 개인
   description: VanillaJS를 활용한 연습용 투두리스트입니다.
   detail_url: https://choiwh000.github.io/Vanilla-JS/
   readmore_url: https://choiwh000.github.io/portfolio/fe-p/2021-11-28-to-do-list/
 
 - background_url: images/pofol/vr/main.JPG
-  animation: fadeInRight
+  animation: fadeInLeft
   name: VR-Contents - 팀
   description: Three.js를 활용하여 VR콘텐츠를 제작하였습니다.
   detail_url: https://choiwh000.github.io/portfolio/fe-p/2021-06-30-vr-contents/
@@ -165,6 +165,13 @@ project_team: # 형식에 맞추어 항목 추가
   description: 본 연구에서는 UX/UI와 첨단기술을 기반에 둔 독창적이고 창의적인 아이디어 발굴과 아이디어의 인터랙션 개념 표현법을 담고 있습니다.
   detail_url: https://choiwh000.github.io/portfolio/ux-p/2021-12-27-sunheng/
   readmore_url: https://choiwh000.github.io/portfolio/ux-p/2021-12-27-sunheng/
+
+- background_url: images/pofol/damunhwa/main.jpg
+  animation: fadeInRight
+  name: XR 디자인 - 팀
+  description: 본 작품은 지역사회참여형 프로젝트로 시흥시와 협력하여 사회 문제를 발굴하고, 창의적으로 사회 문제를 XR 디자인을 통해 문제를 해결하기 위한 프로젝트입니다.
+  detail_url: https://choiwh000.github.io/portfolio/ux-p/2022-03-02-damunhwa-ux/
+  readmore_url: https://choiwh000.github.io/portfolio/ux-p/2022-03-02-damunhwa-ux/
 
 # project_business_name: Business
 # project_business: # 형식에 맞추어 항목 추가
@@ -199,10 +206,10 @@ exp_services: # 형식에 맞추어 항목 추가
   content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분, 커뮤니케이션이 익숙합니다. 새로운 프로젝트에 도전적입니다.
 exp_counters:
 - name: A project in progress
-  count: 3
+  count: 2
   speed: 3000
 - name: project
-  count: 7
+  count: 8
   speed: 5000
 
 
