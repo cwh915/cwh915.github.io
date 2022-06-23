@@ -213,11 +213,11 @@ exp_services: # 형식에 맞추어 항목 추가
   content: 다양한 프로젝트를 기획, 진행 해왔기에 업무에 대한 협력과 배분, 커뮤니케이션이 익숙합니다. 새로운 프로젝트에 도전적입니다.
 exp_counters:
 - name: A project in progress
-  count: 2
-  speed: 3000
-- name: project
-  count: 8
+  count: 1
   speed: 5000
+- name: project
+  count: 9
+  speed: 2000
 
 
 # Career
